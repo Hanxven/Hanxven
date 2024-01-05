@@ -1,5 +1,5 @@
 ## Hanxven Here!
 
-Flat, Flat.
+真的我不知道怎么写个人介绍，怎么写啊怎么写？
 
-Frontend or Backend? Neither! Just a CRUDer.
+个人介绍不能 CV 太烦了！

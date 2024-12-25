@@ -1,6 +1,6 @@
 ## 我
 
-这里是 Hanxven，一位喜欢 Bunny Girl 的 Neko Girl 的不可靠编程人。
+这里是 Hanxven，一位喜欢兔耳娘的猫耳娘的不可靠编程人。
 
 ```ts
 import { useHanxven, useBunnyGirl, useNekoGirl } from 'hanxven'

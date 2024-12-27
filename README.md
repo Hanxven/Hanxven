@@ -1,9 +1,9 @@
 ## 我
 
-这里是 Hanxven，一位喜欢兔耳娘的猫耳娘的不可靠编程人。
+这里是 Hanxven，一位喜欢兔耳娘和猫耳娘的不可靠编程人。
 
 ```ts
-import { useHanxven, useBunnyGirl, useNekoGirl } from 'hanxven'
+import { useHanxven, useBunnyGirl, useNekoGirl, useEffectEx as useEffect } from 'hanxven'
 
 const { happy } = useHanxven()
 const bunnyGirl = useBunnyGirl()

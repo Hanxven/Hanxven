@@ -26,4 +26,4 @@ useEffect(happy, [bunnyGirl, nekoGirl])
 
 ## ⭐
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Hanxven&show_icons=true&theme=vue-dark"/>
+[![Star History Chart](https://api.star-history.com/svg?repos=LeagueAkari/LeagueAkari&type=date&legend=top-left)](https://www.star-history.com/#LeagueAkari/LeagueAkari&type=date&legend=top-left)
